@@ -1,14 +1,34 @@
-**"Repositório para a disciplina de Autoração Multimídia 2"**  
-Este repositório contém as atividades, exercícios e trabalhos desenvolvidos ao longo da disciplina de **Autoração Multimídia 2**. Aqui estão organizados os projetos relacionados ao estudo e aplicação de técnicas e ferramentas voltadas para o desenvolvimento de conteúdos multimídia.  
+# **Repositório para a disciplina de Autoração Multimídia 2**  
 
-📁 **Conteúdo:**  
-- Atividades práticas realizadas durante as aulas;  
-- Trabalhos relacionados à disciplina;  
-- Exemplos de aplicação de conceitos teóricos;  
-- Arquivos de suporte para os projetos.  
+Este repositório contém as atividades, exercícios e trabalhos desenvolvidos ao longo da disciplina de **Autoração Multimídia 2**. Aqui estão organizados os projetos relacionados ao estudo e aplicação de técnicas e ferramentas voltadas para o desenvolvimento de conteúdos multimídia.
 
-👨‍🎓 **Objetivo:**  
-Registrar e compartilhar o progresso na disciplina, promovendo organização e facilitando a consulta ao material produzido.  
+---
 
-🛠 **Tecnologias utilizadas:**  
-- HTML, CSS, JavaScript  
+## 📁 **Conteúdo**  
+- **Atividades práticas** realizadas durante as aulas  
+- **Trabalhos** relacionados à disciplina  
+- **Exemplos de aplicação** de conceitos teóricos  
+- **Arquivos de suporte** para os projetos  
+
+## 👨‍🎓 **Objetivo**  
+Registrar e compartilhar o progresso na disciplina, promovendo **organização** e facilitando a **consulta ao material produzido**.
+
+---
+
+## 🛠 **Tecnologias utilizadas**  
+- **HTML**  
+- **CSS**  
+- **JavaScript**
+
+---
+
+## 🚀 **Como executar os projetos**  
+1. Clone este repositório em sua máquina:  
+   `git clone https://github.com/usuario/am2.levi.git`
+2. Abra os arquivos em seu editor de texto favorito.
+3. Execute-os diretamente no navegador.
+
+---
+
+## 📚 **Licença**  
+Este repositório está sob a [Licença MIT](LICENSE), você pode usar, modificar e distribuir os materiais conforme a licença permite.
